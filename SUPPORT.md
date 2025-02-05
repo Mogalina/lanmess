@@ -14,8 +14,8 @@ If you need help with LanMess, here are some resources:
 
 ## Contact
 
-- Email: [eric.moghioros000@gmail.com]
-- GitHub Issues: [https://github.com/Mogalina/lanmess/issues]
+- Email: [eric.moghioros000@gmail.com](https://mail.google.com/mail/u/0/#inbox)
+- GitHub Issues: [https://github.com/Mogalina/lanmess/issues](https://github.com/Mogalina/lanmess/issues)
 
 ## Common Issues
 
