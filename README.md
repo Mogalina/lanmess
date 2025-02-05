@@ -5,12 +5,12 @@ A lightweight command-line chat application for local network communication usin
 ## Features
 
 - Instant local network messaging
-- No server required - uses UDP broadcast
+- No server required (uses UDP broadcast)
 - Simple command-line interface
 - Username support
 - Cross-platform support (Linux, macOS)
 - Auto-detection of network interface
-- Clean interface with ncurses
+- Clean interface using ncurses
 
 ## Prerequisites
 
