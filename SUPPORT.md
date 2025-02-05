@@ -1,8 +1,8 @@
-# Support
+# 🛟 Support
 
-## Getting Help
+## 🔦 Getting Help
 
-If you need help with LanMess, here are some resources:
+If you need help with `lanmess`, here are some resources:
 
 1. Check the [README.md](README.md) for basic usage
 2. Look through [existing issues](https://github.com/Mogalina/lanmess/issues) on GitHub
@@ -12,12 +12,12 @@ If you need help with LanMess, here are some resources:
    - Expected behavior
    - Actual behavior
 
-## Contact
+## 📪 Contact
 
 - Email: [eric.moghioros000@gmail.com](https://mail.google.com/mail/u/0/#inbox)
 - GitHub Issues: [https://github.com/Mogalina/lanmess/issues](https://github.com/Mogalina/lanmess/issues)
 
-## Common Issues
+## ⚠️ Common Issues
 
 1. Installation Fails
    - Ensure you have root/sudo access
