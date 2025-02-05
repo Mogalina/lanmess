@@ -2,32 +2,16 @@
 
 ## Supported Versions
 
-|
- Version 
-|
- Supported          
-|
-|
----------
-|
--------------------
-|
-|
- 1.0.x   
-|
- :white_check_mark: 
-|
-|
- < 1.0   
-|
- :x:               
-|
+| Version | Supported |
+|---------|-------------------|
+| 1.0.x   | :white_check_mark:|
+| < 1.0   | :x:               |
 
 ## Reporting a Vulnerability
 
 1. **Reporting Process**
    - Email security issues to: eric.moghioros000@gmail.com
-   - Include "LanMess Security Vulnerability" in the subject line
+   - Include `lanmess security vulnerability` in the subject line
    - Provide detailed information about the vulnerability
    - If possible, include steps to reproduce the issue
 
@@ -56,15 +40,15 @@
 
 ## Security Best Practices for Users
 
-1. Use LanMess only on trusted local networks
+1. Use `lanmess` **only** on **trusted** local networks
 2. Keep your system and the application up to date
-3. Use a firewall to control UDP broadcast traffic
-4. Be cautious when sharing sensitive information
+3. Use a **firewall** to control UDP broadcast traffic
+4. Be cautious when **sharing sensitive information**
 5. Monitor system resources while using the application
 
 ## Recent Updates
 
-We are committed to maintaining the security of LanMess. Check this section for security-related updates and patches.
+We are committed to maintaining the security of `lanmess`. Check this section for security-related updates and patches.
 
 - 2025-02-05: Initial security policy established
 
