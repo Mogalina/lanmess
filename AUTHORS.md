@@ -1,7 +1,7 @@
-# Authors
+# 🖋️ Authors
 
 ## Core Team
-- lanmess - *Initial work* - Mogalina
+- lanmess - Mogalina
 
 ## Contributors
 Thank you to all our contributors:
