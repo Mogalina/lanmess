@@ -1,8 +1,8 @@
-# Contributing to lanmess
+# 🫵🏼 Contributing to lanmess
 
 We love your input! We want to make contributing to LanMess as easy and transparent as possible.
 
-## How to Contribute
+## 👥 How to Contribute
 
 1. Fork the repo
 2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
@@ -10,17 +10,17 @@ We love your input! We want to make contributing to LanMess as easy and transpar
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Create a Pull Request
 
-## Code Style
+## ⚙️ Code Style
 
 - Use consistent indentation (4 spaces)
 - Add comments for complex functionality
 - Follow C best practices
 - Test your code before submitting
 
-## Bug Reports
+## 🪲 Bug Reports
 
 We use GitHub issues to track bugs. Report a bug by opening a new issue.
 
-## Feature Requests
+## ⭐️ Feature Requests
 
 We welcome feature requests. Please open an issue to suggest new features.
