@@ -1,6 +1,6 @@
 # lanmess
 
-A lightweight command-line chat application for local network communication using UDP broadcast. **lanmess** enables instant messaging within your local network without requiring a central server, making it perfect for quick team communications, local events, or classroom settings.
+A lightweight command-line chat application for local network communication using UDP broadcast. Enables instant messaging within your local network without requiring a central server, making it perfect for quick team communications, local events, or classroom settings.
 
 ## Features
 
