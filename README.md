@@ -60,9 +60,9 @@ Start the program:
   ```
 
 Navigation:
-- Type your message and press Enter to send
+- Type your message and press `ENTER` to send
 - Messages appear in the main window with sender identification
-- Press Ctrl+C to exit
+- Press `CTRL+C` to exit
 
 ## Uninstallation
 
@@ -78,9 +78,9 @@ To remove the program:
 
 ## Troubleshooting
 
-- If messages aren't sending, check your firewall settings for UDP port 12345
-- If the interface looks broken, ensure your terminal supports ncurses
-- For installation issues, ensure you have the required permissions
+- If messages aren't sending, check your firewall settings for **UDP port 12345**
+- If the interface looks broken, ensure your **terminal supports ncurses**
+- For installation issues, ensure you have the **required permissions**
 
 ## Contributing
 
@@ -98,4 +98,4 @@ For help and support, please check [SUPPORT.md](SUPPORT.md).
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for more details.
