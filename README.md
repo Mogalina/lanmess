@@ -2,7 +2,7 @@
 
 A lightweight command-line chat application for local network communication using UDP broadcast. Enables instant messaging within your local network without requiring a central server, making it perfect for quick team communications, local events, or classroom settings.
 
-## Features
+## 💡 Features
 
 - Instant local network messaging
 - No server required (uses UDP broadcast)
@@ -12,14 +12,14 @@ A lightweight command-line chat application for local network communication usin
 - Auto-detection of network interface
 - Clean interface using ncurses
 
-## Prerequisites
+## 🔩 Prerequisites
 
 - GCC compiler
 - ncurses library (automatically installed by the installer)
 - Network connection
 - Root/sudo access for installation
 
-## Installation
+## ⬆️ Installation
 
 1. Extract the package:
    ```bash
@@ -47,7 +47,7 @@ A lightweight command-line chat application for local network communication usin
      source ~/.zshrc  # or ~/.bash_profile
      ```
 
-## Usage
+## 🖥️ Usage
 
 Start the program:
 - Without username (uses IP address as identifier):
@@ -64,7 +64,7 @@ Navigation:
 - Messages appear in the main window with sender identification
 - Press `CTRL+C` to exit
 
-## Uninstallation
+## ⬇️ Uninstallation
 
 To remove the program:
 - For Linux:
@@ -76,26 +76,26 @@ To remove the program:
   ./uninstall.sh
   ```
 
-## Troubleshooting
+## ⚙️ Troubleshooting
 
 - If messages aren't sending, check your firewall settings for **UDP port 12345**
 - If the interface looks broken, ensure your **terminal supports ncurses**
 - For installation issues, ensure you have the **required permissions**
 
-## Contributing
+## 👨🏻‍💻 Contributing
 
 Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct and the process for submitting pull requests.
 
 See also the list of [contributors](AUTHORS.md) who participated in this project.
 
-## Security
+## 🔒 Security
 
 For security-related issues, please read our [SECURITY.md](SECURITY.md) before reporting.
 
-## Support
+## 🛟 Support
 
 For help and support, please check [SUPPORT.md](SUPPORT.md).
 
-## License
+## 🔑 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for more details.
